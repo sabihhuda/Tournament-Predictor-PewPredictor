@@ -30,7 +30,7 @@ A C++ program designed to manage and predict the outcomes of tournament matches 
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/sabihhuda/Tournament-Predictor-PewPredictor.git
    ```
 2. Navigate to the project directory:
    ```bash
